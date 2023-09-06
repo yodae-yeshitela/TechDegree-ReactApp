@@ -1,2 +1,2 @@
-# TechDegree-ReactApp
-Final project done for Treehouse TechDegree program
+# techdegree-project-10
+React based course catalog with user autentication
